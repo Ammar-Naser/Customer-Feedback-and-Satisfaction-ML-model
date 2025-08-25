@@ -1,4 +1,6 @@
-# Customer-Feedback-and-Satisfaction-ML-
+# Customer-Feedback-and-Satisfaction-ML-Model
+
+In this project, I trained an ML model to classify the Customer Feedback. If the Satisfaction level (0-25) it’s Very Low, (25-50 score) it’s Low, (50-75) it’s Medium, (75-100) it’s High. I used 4 ML algorithms and an ANN algorithm to train this model, and compared their accuracy to save the best model.
 
 **Dataset description: 
 The Customer Feedback and Satisfaction Dataset is a synthetic dataset designed to analyze and predict customer satisfaction based on various demographic and behavioral factors. It contains data for 38,444 customers, capturing their feedback on products and services in a structured format.
@@ -33,7 +35,3 @@ Feature Engineering:
 Model Evaluation: 
 - Compared the models to get the best model.
 - Saved the best model.
-
-
--ML Model:
-I used four ML algorithms and an ANN algorithm to train this model, and compared their accuracy to get the best model.
