@@ -40,7 +40,7 @@ SatisfactionScore: Target variable representing customer satisfaction as a perce
 - Relationship between features and target variable
 - Correlation analysis
 - Visualization of important patterns
--  
+
 ---------------
 ## Feature Engineering: 
 - Correlation between Features
@@ -48,7 +48,7 @@ SatisfactionScore: Target variable representing customer satisfaction as a perce
 - Feature Extraction
 - Feature Expansion(polynomial Features).
 - Dimensionality reduction (PCA)
-- 
+
 --------------
 ## Machine Learning Models
 Used 4 ML algorithms and 1 ANN algorithm:
