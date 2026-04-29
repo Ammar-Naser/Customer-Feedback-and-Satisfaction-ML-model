@@ -70,10 +70,10 @@ Compared the models to get the best model, and saved the best model using:
 ## Project Structure
 ```
 Customer-Feedback-and-Satisfaction-ML-model/
-│── data/              # Dataset files
-│── notebooks/         # Jupyter notebooks
-│── src/               # Core code
-│── models/            # Saved models
+│── data/
+│── notebooks/
+│── src/
+│── models/
 │── README.md
 ```
 
